@@ -35,6 +35,7 @@ l6=new JLabel();
 l6.setBounds(430,0,50,30);
 l6.setText("Times");
 add(l6);
+
 l4=new JLabel();
 l4.setBounds(270,80,600,400);
 l4.setForeground(Color.RED);
