@@ -3,6 +3,7 @@ import java.awt.*;
 import java.awt.event.*;
 class MyAnimations extends JFrame implements MouseMotionListener{
 int x=0;
+
 int y=0;
 int width = 35;
 int height = 35;
